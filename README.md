@@ -1,2 +1,2 @@
 # Restaurent-Menu-Page
-An attractive restaurent menu page desgined using Node Js and Bootstrap 4
+An attractive restaurent menu page designed using Node Js and Bootstrap 4
